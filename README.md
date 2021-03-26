@@ -77,11 +77,15 @@
 </p>
 
  <hr>
+<br>
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupalsonje&show_icons=true&theme=radical&locale=en&layout=compact" alt="rupalsonje" /></p>
+<br>
 
 <p align="center" style="margin:20px 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupalsonje&show_icons=true&theme=radical&locale=en" alt="rupalsonje" /></p>
+<br>
 
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupalsonje&theme=dark" alt="rupalsonje" /></p>
-
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupalsonje" alt="rupalsonje" /></a> </p>
+<br>
  <hr>
