@@ -14,7 +14,7 @@
 <a href="https://www.hackerearth.com/@rupalsonje0107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rupalsonje0107" height="30" width="40" /></a>
 <a href="https://discord.gg/rupal#5053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rupal#5053" height="30" width="40" /></a>
 </p>
- <br>
+ <hr>
 - 🌱 I’m currently learning **reactjs, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupalsonje](https://github.com/rupalsonje)
@@ -22,7 +22,7 @@
 - 📫 How to reach me **sonjerupal2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
-<hr><br>
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 
 > Tools, languages, and other things that I like to work with.
@@ -76,14 +76,14 @@
 </a>                                                                                                                                    
 </p>
 
-<br>
+ <hr>
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupalsonje&show_icons=true&theme=radical&locale=en&layout=compact" alt="rupalsonje" /></p>
 
-<br>
+ <hr>
 <p align="center" style="margin:20px 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupalsonje&show_icons=true&theme=radical&locale=en" alt="rupalsonje" /></p>
 
-<br>
+ <hr>
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupalsonje&theme=dark" alt="rupalsonje" /></p>
 
-<br>
+ <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="padding:5px 10px;"><img src="https://github-profile-trophy.vercel.app/?username=rupalsonje" alt="rupalsonje" /></a> </p>
