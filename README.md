@@ -5,7 +5,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rupal-sonje-037aa418b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rupal-sonje-037aa418b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/rupalsonje1183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://m.facebook.com/rupalsonje1183" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rupal_1183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rupal_1183/" height="30" width="40" /></a>
@@ -15,7 +14,7 @@
 <a href="https://www.hackerearth.com/@rupalsonje0107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@rupalsonje0107" height="30" width="40" /></a>
 <a href="https://discord.gg/rupal#5053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rupal#5053" height="30" width="40" /></a>
 </p>
-
+ <br>
 - 🌱 I’m currently learning **reactjs, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupalsonje](https://github.com/rupalsonje)
@@ -23,8 +22,9 @@
 - 📫 How to reach me **sonjerupal2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
+> Tools, languages, and other things that I like to work with.
 <p align="center" style="padding:20px 10px;">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
