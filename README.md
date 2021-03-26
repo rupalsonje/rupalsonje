@@ -15,7 +15,7 @@
 <a href="https://discord.gg/rupal#5053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rupal#5053" height="30" width="40" /></a>
 </p>
  <hr>
-- 🌱 I’m currently learning **reactjs, java**
+- 🌱 I’m currently learning reactjs, java
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupalsonje](https://github.com/rupalsonje)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:wrench:Languages and Tools:</h3>
 
 > Tools, languages, and other things that I like to work with.
 
