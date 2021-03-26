@@ -27,7 +27,8 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<p align="center" style="padding:20px 10px;">
+<br>
+<p align="left">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
