@@ -22,9 +22,8 @@
 - 📫 How to reach me **sonjerupal2000@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
-<br>
+<hr><br>
 <h3 align="center">Languages and Tools:</h3>
-> Tools, languages, and other things that I like to work with.
 <p align="center" style="padding:20px 10px;">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -73,10 +72,14 @@
 </a>                                                                                                                                    
 </p>
 
+<br>
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupalsonje&show_icons=true&theme=radical&locale=en&layout=compact" alt="rupalsonje" /></p>
 
+<br>
 <p align="center" style="margin:20px 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupalsonje&show_icons=true&theme=radical&locale=en" alt="rupalsonje" /></p>
 
+<br>
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupalsonje&theme=dark" alt="rupalsonje" /></p>
 
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="padding:5px 10px;"><img src="https://github-profile-trophy.vercel.app/?username=rupalsonje" alt="rupalsonje" /></a> </p>
