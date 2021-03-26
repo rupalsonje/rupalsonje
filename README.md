@@ -24,6 +24,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
 <hr><br>
 <h3 align="center">Languages and Tools:</h3>
+
+> Tools, languages, and other things that I like to work with.
+
 <p align="center" style="padding:20px 10px;">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
