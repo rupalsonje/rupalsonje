@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rupalsonje&label=Profile%20views&color=0e13b4&style=flat" alt="rupalsonje" /> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center" style="padding:5px 15px;margin:20px">
+<p align="center" style="padding:5px 25px;">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rupal-sonje-037aa418b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rupal-sonje-037aa418b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/rupalsonje1183" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://m.facebook.com/rupalsonje1183" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rupal_1183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rupal_1183/" height="30" width="40" /></a>
