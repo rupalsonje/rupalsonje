@@ -78,6 +78,9 @@
 
  <hr>
 <br>
+
+## &#x1f4c8; GitHub Stats
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupalsonje&show_icons=true&theme=radical&locale=en&layout=compact" alt="rupalsonje" /></p>
 <br>
 
@@ -86,7 +89,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupalsonje&theme=dark" alt="rupalsonje" /></p>
 <br>
-<p align="left"> 
+
+## 🏆 GitHub Trophies
+
+<p align="center"> 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rupalsonje&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
