@@ -86,6 +86,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupalsonje&theme=dark" alt="rupalsonje" /></p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupalsonje" alt="rupalsonje" /></a> </p>
+<p align="left"> 
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rupalsonje&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 <br>
  <hr>
