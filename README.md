@@ -25,7 +25,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="padding:20px 10px;">
-<div style="padding:10px;display:flex;flex-wrap:wrap;justify-content :space-evenly;flex-direction:row;">
+<div style="padding:10px;">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
