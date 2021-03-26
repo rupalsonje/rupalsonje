@@ -24,8 +24,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing](https://drive.google.com/file/d/1J6Qukm5qyHLrGfZQIB6Cy4NOD_B90VRC/view?usp=sharing)
 
 <h3 align="center">Languages and Tools:</h3>
-<!-- <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;flex-direction:row;"> -->
-<p align=center" style="padding:20px 10px;display:flex;flex-wrap:wrap;justify-content:space-evenly;flex-direction:row;">
+<p align=center" style="padding:20px 10px;">
+<div style="display:flex;flex-wrap:wrap;justify-content :space-evenly;flex-direction:row;">
 <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
@@ -70,7 +70,8 @@
 </a>
 <a href="https://reactjs.org/" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
+</a>
+</div>                                                                                                                                               
 </p>
 
 <p align="center" style="margin:20px 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupalsonje&show_icons=true&theme=radical&locale=en&layout=compact" alt="rupalsonje" /></p>
